@@ -1,0 +1,1 @@
+//  <raference types="vite/client"/> 
